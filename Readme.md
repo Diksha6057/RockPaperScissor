@@ -15,7 +15,9 @@ A simple and interactive **Rock Paper Scissors** game built using **Python**. Th
 * Python 3
 * Random Module
 
+## 📸 Screenshot
 
+![Rock Paper Scissors Game](screenshot.png)
 
 ## 👩‍💻 Author
 
