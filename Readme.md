@@ -7,7 +7,7 @@ A simple and interactive **Rock Paper Scissors** game built using **Python**. Th
 * User vs Computer gameplay
 * Random computer choice using Python's `random` module
 * Input validation
-* Win, Lose, and Tie detection
+* Win, Lose, and Tie detection unctionality
 * Option to play multiple rounds
 
 ## 🛠️ Technologies Used
